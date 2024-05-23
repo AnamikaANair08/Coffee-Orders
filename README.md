@@ -1,4 +1,10 @@
 # Coffee-Orders
+Objective : 
+1. To analyze which country sells more coffee with respect to others.
+2. To provide a representation of total sales over time.
+3. To know the top 5 customers and rregular buyers of this product.
+
+Here, in this dashboard I have used 3 KPIs (line chart to analyze sales over time and bar charts to analyze sales with respect to country and top 5 customers) and 4 slicers to analyze the above objectives. 
 
 The dataset contains three different worksheets:- orders, customers and products. 
 The Orders table contains 1000 records and 5 columns namely: Order ID, Order Date,Customer ID,Product ID and Quantity.
